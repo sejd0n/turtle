@@ -11,6 +11,8 @@
 Not yet released
 
 * Fixed mocking of a function returning a reference for gcc 4.1
+* Added virtual inheritance to mock::object defined with MOCK_BASE_CLASS and MOCK_CLASS
+* Added virtual to destructors defined with MOCK_DESTRUCTOR
 
 [endsect]
 
